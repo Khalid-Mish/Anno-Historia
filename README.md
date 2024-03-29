@@ -17,3 +17,5 @@ in order to store user credentials as well as information about their timelines.
 ## Video Demo:
 
 https://www.youtube.com/watch?v=-GNIt_o25r4&t=6s
+
+![Anno-Historia Logo](ah_logo.png)
