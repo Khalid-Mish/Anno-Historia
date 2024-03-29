@@ -16,4 +16,4 @@ in order to store user credentials as well as information about their timelines.
 
 ## Video Demo:
 
-https://www.youtube.com/embed/-GNIt_o25r4?si=-vQU9ij8F7TUoEGU
+https://www.youtube.com/watch?v=-GNIt_o25r4&t=6s
