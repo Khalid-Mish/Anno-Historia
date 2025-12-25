@@ -19,6 +19,9 @@ in order to store user credentials as well as information about their timelines.
 The project consists of two folders: the Historia-Frontend folder, and the Historia-Backend folder.
 
 ### Backend Setup:
+
+The backend database runs on MongoDB. For security reasons I have <b>not</b> included the database secrets here and this must be done manually in the .env folder if you would like to utilise the backend database.
+
 1. Navigate to the `Historia-Backend` folder.
 2. Run `npm install` to install dependencies.
 3. Copy `.env.example` to `.env`: `cp .env.example .env`
