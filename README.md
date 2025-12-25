@@ -23,7 +23,7 @@ The project consists of two folders: the Historia-Frontend folder, and the Histo
 The backend database runs on MongoDB. For security reasons I have <b>not</b> included the database secrets here and this must be done manually in the .env folder if you would like to utilise the backend database.
 
 1. Navigate to the `Historia-Backend` folder.
-2. Run `npm install` to install dependencies.
+2. Run `npm i nodemon` to install dependencies.
 3. Copy `.env.example` to `.env`: `cp .env.example .env`
 4. Fill in the required values in `.env`:
    - `JWT_SECRET`: Generate a random secret (e.g., using `node -e "console.log(require('crypto').randomBytes(32).toString('hex'))"`)
@@ -34,7 +34,7 @@ The backend database runs on MongoDB. For security reasons I have <b>not</b> inc
 
 ### Frontend Setup:
 1. Navigate to the `Historia-Frontend` folder.
-2. Run `npm install` to install dependencies.
+2. Run `npm i nodemon` to install dependencies.
 3. Run `npm start` to start the frontend development server.
 
 ## Video Demo:
