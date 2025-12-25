@@ -39,8 +39,8 @@ The backend database runs on MongoDB. For security reasons I have <b>not</b> inc
 
 ## Video Demo:
 
-https://www.youtube.com/watch?v=-GNIt_o25r4&t=6s
+https://youtu.be/1HeCW6blagw
 
-[![Anno-Historia Logo](ah_logo.png)](https://www.youtube.com/watch?v=-GNIt_o25r4&t=6s)
+[![Anno-Historia Logo](ah_logo.png)](https://youtu.be/1HeCW6blagw)
 
 
